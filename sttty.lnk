@@ -1,0 +1,11 @@
+INPUT init.bin
+INPUT main.bin
+INPUT statusln.bin
+INPUT aux.bin
+INPUT con.bin
+INPUT conin.bin
+INPUT keymap.bin
+INPUT conout.bin
+INPUT font.bin
+INPUT graphics.bin
+INPUT sound.bin

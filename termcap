@@ -1,0 +1,14 @@
+STtty:\
+	:co#80:li#24:it#8:bl=^G:vb=\E^G:\
+	:up=\EA:do=\EB:nd=\EC:le=\ED:cm=\EG%+ %+ :ho=\EH:\
+	:cl=\EE:cd=\EJ:ce=\EK:al=\EL:dl=\EM:cb=\EN:\
+	:cs=\ES%+ %+ :YE:RA=\Ev:SA=\Ew:\
+	:ms:mr=\Ea:md=\Eb:us=\Ec:mh=\Ed:me=\Eq:ue=\Eq:\
+	:ve=\Ee:vi=\Ef:vs=\Eg:sc=\Ej:rc=\Ek:\
+	:rs=\EE\Eq\Ee\ES 7:\
+	:km:kb=^H:kD=^?:\
+	:ku=\EOA:kd=\EOB:kr=\EOC:kl=\EOD:\
+	:kh=\EOH:kH=\EOI:kP=\EOJ:kN=\EOK:\
+	:&8=\EOM:%1=\EOL:\
+	:k1=\EO1:k2=\EO2:k3=\EO3:k4=\EO4:k5=\EO5:\
+	:k6=\EO6:k7=\EO7:k8=\EO8:k9=\EO9:k0=\EO0:
