@@ -1,0 +1,16 @@
+ST-TTY
+======
+
+A fast VT52 terminal emulator for a Atari ST with monochrome monitor.
+
+Use it as a serial terminal for you Linux / BSD / whatever server by
+connecting it with a null modem cable.  I wrote this emulator because
+the VT52 emulator supplied with the ST can't keep up with the maximum
+(19200) baudrate of the ST.
+
+The code is written for the MetaComCo Macro Assembler.
+
+--
+Copyright (c) 1995 Remco van 't Veer. All rights reserved.
+
+
